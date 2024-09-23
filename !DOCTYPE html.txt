@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            margin: 50px;
+        }
+        .profile {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+        h1 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <img src="profile.jpg" alt="Profile Picture">
+        <h1>dekiselden</h1>
+        <p>Hello! I'm a web enthusiast learning how to develop websites. Here is my basic profile page.</p>
+        <p><strong>Bio:</strong> Write a short bio about yourself here.</p> I am an introvert person
+
+    </div>
+</body>
+</html>
